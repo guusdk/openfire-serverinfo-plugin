@@ -16,6 +16,8 @@ Upon completion, the openfire plugin will be available in `target/serverinfo.jar
 
 Installation
 ------------
+Download the plugin archive file, `serverinfo.jar` from the [releases](https://github.com/guusdk/openfire-serverinfo-plugin/release download page), or build your own copy, as described above.
+
 Copy `serverinfo.jar` into the plugins directory of your Openfire server, or use the Openfire Admin Console to upload the plugin. The plugin will then be automatically deployed.
 
 To upgrade to a new version, copy the new `serverinfo.jar` file over the existing file.
