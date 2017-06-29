@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+    <class>nl.goodbytes.openfire.plugins.serverinfo.ServerInfoPlugin</class>
+    <name>ServerInfo</name>
+    <description>Exposes basic XMPP domain information as a JSON object.</description>
+    <author>Guus der Kinderen</author>
+    <version>1.0.0</version>
+    <date>06/29/2017</date>
+</plugin>
